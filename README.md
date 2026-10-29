@@ -4,9 +4,11 @@ A visual blog by Ye Liu about coffee, the EU Deforestation Regulation, and the c
 
 ## Open the blog
 
-Download `index.html` and open it in a browser. This standalone edition includes its images, charts, styles, scripts, and downloadable data. It preserves the animated cover, interactive visualizations, reading view, and references from the current draft.
+Read the published blog: [A Forest in Your Cup](https://chloe-liu426.github.io/a-forest-in-your-cup/).
 
-GitHub's file view displays HTML source. To view the rendered blog locally, download the file first. This repository is private; no GitHub Pages site has been enabled.
+For an offline copy, download `index.html` and open it in a browser. This standalone edition includes its images, charts, styles, scripts, and downloadable data, with the animated cover, interactive visualizations, reading view, and references.
+
+GitHub's file view displays HTML source. To view the rendered blog locally, download the file first.
 
 ## Edit the source
 
@@ -19,7 +21,7 @@ node preview.mjs
 
 Then open `http://127.0.0.1:4173/`. No dependency installation is required.
 
-The current draft uses Arial and contains 24 references.
+The blog uses Arial and contains 24 references.
 
 ## Sources and credits
 
